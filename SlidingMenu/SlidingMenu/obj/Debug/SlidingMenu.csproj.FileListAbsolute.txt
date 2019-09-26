@@ -1,0 +1,10 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\bin\Debug\SlidingMenu.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\bin\Debug\SlidingMenu.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\bin\Debug\SlidingMenu.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.Form1.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SlidingMenu\SlidingMenu\obj\Debug\SlidingMenu.pdb
